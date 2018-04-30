@@ -1,5 +1,11 @@
 # xiaozi小紫——中文定制商业级交互式机器人
 
+![Code主要语言](https://img.shields.io/badge/code-python-blue.svg)
+![Version版本](https://img.shields.io/badge/version-Custom_Business_Edition-green.svg)
+![QQ](https://img.shields.io/badge/QQ-1481605673-yellow.svg)
+![WeChat](https://img.shields.io/badge/WeChat-1481605673-yellow.svg)
+![E-mail](https://img.shields.io/badge/email-lanzhijiang@foxmail.com-yellow.svg)
+
 ### 产品介绍：
   - 小紫是一款专门为组织/机构/企业/集团定制的商业交互式机器人
   - 小紫运行在RaspberryPi（树莓派）上【实体状态】{已经通过测试}
