@@ -27,7 +27,7 @@
 - 提供电子表格（office的excel）
 - 电子表格被用于为客户服务的内容和一些特定的对话回答
 - 电子表格的格式请务必严格按照示例电子表格填写
-- 示例电子表格下载：[示例电子表格](www.github.com/xiaoland/xiaozi/data.xml)
+- 示例电子表格下载：[示例电子表格](https://github.com/xiaoland/xiaozi/blob/master/%E5%B0%8F%E7%B4%AB%E7%A4%BA%E4%BE%8B%E6%95%B0%E6%8D%AE%E7%94%B5%E5%AD%90%E8%A1%A8%E6%A0%BC.xlsx)
 ### 安装：
 - 实体状态：
   - 购买树莓派3B和16gTF卡和麦克风（USB或阵列麦克风）
